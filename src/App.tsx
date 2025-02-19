@@ -30,7 +30,7 @@ function App() {
         🥳 DATA ENGINEERING 
         <br />
         <a href="https://docs.amplify.aws/react/start/quickstart/#make-frontend-updates">
-          Review next step of this tutorial.
+         ENVIANDO 2025.
         </a>
       </div>
     </main>
